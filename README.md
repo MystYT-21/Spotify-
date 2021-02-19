@@ -5,7 +5,7 @@ Who is D.t 49?
 
 - JS, HTML, CSS and C developer
 - owner of meme bot and spotify!
-- likes memes
+- likes memes(a lot)
 - shitposter
 - loves node.js
 
